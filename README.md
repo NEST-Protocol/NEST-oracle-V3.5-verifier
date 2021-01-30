@@ -7,7 +7,7 @@
 
 >The relevant parameters of this program such as the price deviation percentage, the default value is 1%, which is not necessarily the optimal verification arbitrage ratio, and the user can adjust it according to the actual situation.
 
->Huobi Exchange's hedging function is an optional feature. Users can choose whether to enable the hedging function. Currently, only Huobi Exchange hedging is supported. If you need to use other exchanges for hedging operations, you can implement it by yourself [HedgeService](https: //github.com/NEST-Protocol/NEST-oracle-V3.5-verifier/tree/main/src/main/java/com/nest/ib/service/HedgeService.java) interface.
+>Huobi Exchange's hedging function is an optional feature. Users can choose whether to enable the hedging function. Currently, only Huobi Exchange hedging is supported. If you need to use other exchanges for hedging operations, you can implement it by yourself [HedgeService](https://github.com/NEST-Protocol/NEST-oracle-V3.5-verifier/blob/master/src/main/java/com/nest/ib/service/HedgeService.java) interface.
 
 >The main functions of the verification arbitrage program are:
    * Check account assets, unfrozen assets, and frozen assets.

@@ -8,7 +8,7 @@
 
 >本程序相关参数如价格偏离百分比，默认值为1%，并不一定是最优的验证套利比例，用户可根据实际情况自行调整。
 
->火币交易所对冲功能是一个可选功能，用户可自行选择是否开启对冲功能，目前仅支持火币交易所对冲，如需使用其他交易所进行对冲操作，可自行实现[HedgeService](https://github.com/NEST-Protocol/NEST-oracle-V3.5-verifier/tree/main/src/main/java/com/nest/ib/service/HedgeService.java)接口。
+>火币交易所对冲功能是一个可选功能，用户可自行选择是否开启对冲功能，目前仅支持火币交易所对冲，如需使用其他交易所进行对冲操作，可自行实现[HedgeService](https://github.com/NEST-Protocol/NEST-oracle-V3.5-verifier/blob/master/src/main/java/com/nest/ib/service/HedgeService.java)接口。
 
 >验证套利程序主要功能有：
    * 检查账户资产、解冻资产、冻结资产情况。
