@@ -3,7 +3,7 @@
 
 
 #### Introduction
->NEST3.0 automatic verification arbitrage program is a sample program, which can be used for secondary development according to the code logic of this program. Any problems encountered during development can be submitted on Github, and the developers of this program will answer them in time.
+>NEST3.5 automatic verification arbitrage program is a sample program, which can be used for secondary development according to the code logic of this program. Any problems encountered during development can be submitted on Github, and the developers of this program will answer them in time.
 
 >The relevant parameters of this program such as the price deviation percentage, the default value is 1%, which is not necessarily the optimal verification arbitrage ratio, and the user can adjust it according to the actual situation.
 
